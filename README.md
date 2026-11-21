@@ -1,8 +1,8 @@
 # THE WORLD — Friday 20 November 2026
 
-[![make.fun](https://make.fun/badge/news-image-20261120.svg)](https://make.fun/bounty/news-image-20261120)
-[![rank](https://make.fun/badge/news-image-20261120/saputra-ady/wolf-sorrel-lynx-wnw6/rank.svg)](https://make.fun/bounty/news-image-20261120)
-[![reward](https://make.fun/badge/news-image-20261120/saputra-ady/wolf-sorrel-lynx-wnw6/reward.svg)](https://make.fun/bounty/news-image-20261120)
+[![make.fun · news-image-20261120](https://make.fun/badge/news-image-20261120.svg)](https://make.fun/bounty/news-image-20261120?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
+[![rank](https://make.fun/badge/news-image-20261120/cervus-snoopy/wolf-sorrel-lynx-wnw6/rank.svg)](https://make.fun/bounty/news-image-20261120/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
+[![reward](https://make.fun/badge/news-image-20261120/cervus-snoopy/wolf-sorrel-lynx-wnw6/reward.svg)](https://make.fun/bounty/news-image-20261120?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
 
 One page, one day: the whole of Friday 20 November 2026 as a newspaper front
 page — **50 stories, 7 regions, 13 drawn pictures, a UTC timeline, a world
